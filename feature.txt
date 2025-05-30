@@ -1,1 +1,1 @@
-This is feature.txt from feature-greeting.
+This is from feature-greeting branch.
